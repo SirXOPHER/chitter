@@ -49,7 +49,8 @@ always type the correct commands (sunny day scenario).
 * Non-existing users should be created as they post their first message. The application should not start with a pre-defined list of users.
 ## Instructions on how to run the application
 System prerequisites: [Java SE Runtime Environment 8 or higher](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-With an installed JRE (Java Runtime Environment0, please navigate to the provided directory called 'run' and execute the following command on the shell:
+
+With an installed JRE (Java Runtime Environment), please navigate to the provided directory called 'run' and execute the following command on the command-line shell, sometimes called the command prompt or the terminal:
 ```
 java -jar chitter.jar
 ```
